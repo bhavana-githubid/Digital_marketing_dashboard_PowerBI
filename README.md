@@ -52,4 +52,6 @@ In this Power BI report:
 
 ---
 
+##Dashboard 
+Digital_marketing_dashboard.png
 
