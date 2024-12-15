@@ -53,6 +53,5 @@ In this Power BI report:
 ---
 
 ## Dashboard 
-Digital_marketing_dashboard_PowerBI
-/Digital_marketing_dashboard.png
+![Dashboard Preview](Digital_marketing_dashboard.png)
 
